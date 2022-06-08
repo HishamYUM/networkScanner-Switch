@@ -12,7 +12,5 @@ On Windows: python switch_ui.py
 
 Once the interface shows up, choose a method to connect, either SSH or Telnet, then enter the credentials of the switch(IP, username and password), then click "Connect & Execute" and wait untill "Commands Executed" is showing.
 
-You can run the executables by this way:
-On Linux: in terminal, type: ./switch_ui_Linux or double click
-On Windows: double click
- Once the you connect and execute the commands, check you working directory for the output
+
+ Once you connect and execute the commands, check you working directory for the output
